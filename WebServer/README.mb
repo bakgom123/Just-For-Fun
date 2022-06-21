@@ -1,5 +1,7 @@
+[Node.js & express로 웹 서버 구축하기]
 npm install -g nodemon 설치하면 자동적으로 리프레쉬 해줌
 Not solved:
 * bootstrap 사용해서 html css 하드코딩 피하기
 * 기본적인 틀은 있지만 아무것도 없는 웹 페이지
+* 추후 MongoDB를 사용해야 할 것 같음
 ** src code: https://www.youtube.com/watch?v=Yn4fUo1i1-s&list=PLfLgtT94nNq1qmsvIii_CAxFlD7tvB5NE&index=7 **
