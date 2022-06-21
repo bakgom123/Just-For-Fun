@@ -2,5 +2,4 @@ npm install -g nodemon 설치하면 자동적으로 리프레쉬 해줌
 Not solved:
 * bootstrap 사용해서 html css 하드코딩 피하기
 * 기본적인 틀은 있지만 아무것도 없는 웹 페이지
-* 유튜버 코딩애플의 동영상 보고 따라 만든 틀이라 개인적인 지식이 사용되지 않았음
-** https://www.youtube.com/watch?v=Yn4fUo1i1-s&list=PLfLgtT94nNq1qmsvIii_CAxFlD7tvB5NE&index=7 **
+** src code: https://www.youtube.com/watch?v=Yn4fUo1i1-s&list=PLfLgtT94nNq1qmsvIii_CAxFlD7tvB5NE&index=7 **
